@@ -1,0 +1,5 @@
+1 120 Raayan(7.0/10) Hyderabad PVR_Nexus 2 12-7-2024 06.00PM-09.00PM 
+9502001035 102 Ghostbusters:Afterlife(7.0/10) Bangalore PVR_Mall 3 13-7-2024 12.30PM-03.30PM 
+1234567890 104 Kalki(2090AD)(8.5/10) Bangalore Krishna 2 14-7-2024 12.30PM-03.30PM 
+1 125 Kanguva(9.5/10) Chennai Rain_square 1 25-7-2024 06.00PM-09.00PM 
+6238742729 108 ManjummelBoys(8.3/10) Kochi PVR_Lulu 1 2-8-24 09.00AM-12.00PM 
